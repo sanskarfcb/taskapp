@@ -1,13 +1,14 @@
 #  Task Manager App (Spring Boot + Thymeleaf + Docker)
 
 This is a simple web-based Task Manager application built using **Spring Boot**, **Thymeleaf**, and **Docker**. It allows users to add and delete tasks with a clean UI. This project is Dockerized so it can be easily run on any machine with Docker installed.
+This is the first project with which I'm learning docker.
 
 ---
 
 ##  Features
 
 - Add tasks 
-- Delete tasks 🗑
+- Delete tasks 
 - Beautiful UI with **Thymeleaf**
 - Lightweight **H2 database**
 - Dockerized for easy deployment 
